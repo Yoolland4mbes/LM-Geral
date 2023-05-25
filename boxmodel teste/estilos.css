@@ -1,0 +1,26 @@
+.container {
+    background-color: #db7093;
+width: 400px;
+
+/*ESTUDOS DE PADDING*/
+
+    /* padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 27px;
+    padding-right: 5px;
+} */
+   /*todos*/
+   padding: 10px;
+
+
+   /*ESTUDOS DE MARGEM*/
+   
+   /* top e bottom, left e right  */
+    margin: 30px 15px;
+
+   /* BORDAS */
+   border-radius: 20px;
+   border: 7px solid #ffb6c1; 
+
+    
+}
